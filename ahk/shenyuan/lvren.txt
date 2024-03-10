@@ -1,0 +1,70 @@
+
+
+send,{right}
+sleep,10
+send,{right}
+sleep,10
+send,{space}
+sleep,1000
+
+send,{right}
+sleep,10
+send,{right down}
+sleep,1600
+send,{right up}
+sleep,50
+
+send,{f}
+sleep,1500
+
+send,{right}
+sleep,10
+send,{right down}
+sleep,1500
+send,{right up}
+sleep,50
+
+send,{e}
+sleep,1000
+
+send,{right}
+sleep,10
+send,{right down}
+sleep,1600
+send,{right up}
+sleep,50
+
+send,{a}
+sleep,700
+send,{r}
+sleep,4000
+
+send,{numpaddiv}
+sleep,2000
+send,{x}
+sleep,200
+send,{x}
+sleep,200
+send,{x}
+sleep,200
+send,{x}
+sleep,200
+send,{x}
+sleep,200
+send,{x}
+sleep,200
+send,{x}
+sleep,200
+send,{x}
+sleep,200
+send,{x}
+sleep,200
+send,{x}
+sleep,200
+
+send,{esc}
+sleep,500
+
+send,{f10}
+sleep,6000
+
